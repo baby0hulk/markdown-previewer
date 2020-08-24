@@ -1,0 +1,35 @@
+.App {
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+#preview-container {
+	padding: 8px;
+	background-color: beige;
+}
+
+#editor-container, #preview-container {
+  margin: 8px;
+  width: 100%;
+}
+
+#editor {
+	width: 100%;
+}
+
+@media screen and (min-width: 768px) {	
+	.row {
+		display: flex;		
+	}
+	#editor-container, #preview-container {
+	  width: 50%;
+	}
+}
