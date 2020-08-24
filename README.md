@@ -1,7 +1,3 @@
-# fcc-quote
-Markdown Previewer with React and Redux for Free Code Camp
-
-Demo https://jopf.re/markdown/
 
 ## Quick Start
 
